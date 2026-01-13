@@ -1,0 +1,7 @@
+textual
+plotext
+matplotlib
+yfinance
+pandas
+pandas-ta
+numpy
